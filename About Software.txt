@@ -1,0 +1,89 @@
+			     Generative Virtual Camera, 
+ 				by Mr.Mettri Royrak. 
+
+          			System requirements: 
+                         —————————————————————————————————
+Windows 7, 8, 8.1, 10, 11, OBS Studio Software (require version 29.1.3 up), 
+uEye64 WHQL (optional, for using UI family IDS Industry Camera),
+MVS SDK (optional, for using HIK Industry Camera),
+OpenCL SDK (optional, Software will use GPU if available)
+ **** The program does NOT require any version .NET Framework. **** 
+
+                                   Description: 
+                         —————————————————————————————————
+Software "Generative Virtual Camera" (GVC) is software for creating a Virtual
+Camera using images from a Webcam Camera, IDS Industry Camera or HIK Industry Camera 
+various. It will be able to adjust the Perspective of the image along with applying 
+filters and sending the resulting image into a Virtual Camera. 
+
+This software is created for the purpose of receiving images from any camera. into an 
+image that is ready to use without having to go through additional programming. For 
+speed of use and convenience in improving images before using them in other programs.
+
+
+Changes in versions: 
+v1.6.1
+ - Automatically Processing on GPU if available thru OpenCL.
+ - Information display.
+ - Fix setting GUI front when software error.
+ - Added asking dialog to setting GUI after software error.
+
+v1.5.4
+ - Fix error Popup when requirements software are not install.
+
+v1.5.3
+ - Fix error message when camera not found.
+
+v1.5.2
+ - Improve speed of opening setting window.
+
+v.1.5.1
+ - Change setting GUI interface.
+ - Added image resize function.
+ - Improve stability of Perspcetive grid function.
+
+v1.4.2
+ - Fix grid not match with image
+
+v1.4.1
+ - Change Perspcetive Adjustment function to control by mouse.
+ - Added grayscale change setting.
+
+v1.3.3
+ - Fix Bugs.
+
+v1.3.2
+ - Change tray icon interface.
+
+v1.3.1
+ - Added image acquisition setting GUI interface.
+ - Fix error message.
+
+v1.2.2
+ - Fix Bugs.
+
+v1.2.1
+ - Added image setting GUI interface.
+ - Added Perspcetive Adjustment function.
+ - Added filter Adjustment function.
+
+v1.1.5
+ - Fix Bugs.
+
+v1.1.4
+ - Change Icon.
+
+v1.1.3
+ - Improve software performance
+
+v1.1.2
+ - Added Exit software.
+
+v1.1.1
+ - Added tray GUI interface.
+
+v1.0.2
+ - Fix Bugs.
+
+v1.0.1
+ - First version, test.
